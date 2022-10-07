@@ -99,8 +99,6 @@ const getUserGuilds = async (accessToken) => {
           Register
         </button>
 
-       
-
       </div>
 
     </div>
